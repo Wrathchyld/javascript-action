@@ -1,4 +1,4 @@
-{
+{pkg/fixtures/triggers/transfer.created.json
   "name": "javascript-action",
   "version": "1.0.0",
   "description": "JavaScript Action Template",
